@@ -184,62 +184,6 @@
       "utilisateur": "Hugo Block",
       "commentaire": "Sint quidem quia ipsam quae.",
       "nbEtoiles": 5
-    },
-    {
-      "pieceId": 3,
-      "utilisateur": "kekw",
-      "commentaire": "suuuuu",
-      "nbEtoiles": "5",
-      "id": 21
-    },
-    {
-      "pieceId": 3,
-      "utilisateur": "kekw",
-      "commentaire": "suuuuu",
-      "nbEtoiles": "5",
-      "id": 22
-    },
-    {
-      "pieceId": 4,
-      "utilisateur": "kekw",
-      "commentaire": "suuuuu",
-      "nbEtoiles": "5",
-      "id": 23
-    },
-    {
-      "pieceId": 1,
-      "utilisateur": "kekw",
-      "commentaire": "suuuuu",
-      "nbEtoiles": "1",
-      "id": 24
-    },
-    {
-      "pieceId": 1,
-      "utilisateur": "kekw",
-      "commentaire": "suuuuu1",
-      "nbEtoiles": "1",
-      "id": 25
-    },
-    {
-      "pieceId": 1,
-      "utilisateur": "kekw",
-      "commentaire": "suuuuu2",
-      "nbEtoiles": "",
-      "id": 26
-    },
-    {
-      "pieceId": 1,
-      "utilisateur": "kekw",
-      "commentaire": "suuuuu3",
-      "nbEtoiles": "1",
-      "id": 27
-    },
-    {
-      "pieceId": 1,
-      "utilisateur": "kekw",
-      "commentaire": "suuuuu3",
-      "nbEtoiles": "1",
-      "id": 28
     }
   ]
 }
