@@ -1,6 +1,6 @@
 // Récupération des pièces depuis le fichier JSON
 const pieces = await fetch("http://127.0.0.1:8081/pieces").then(pieces => pieces.json());
-import { ajoutListenersAvis, listenerEnvoyerAvis } from "./avis.js";
+import { ajoutListenersAvis, listenerEnvoyerAvis, afficherGraphiqueAvis } from "./avis.js";
 
 function piecesAbordables (pieces) {
 	const nomsAborddables = pieces.map(piece => piece.nom);
@@ -118,3 +118,4 @@ boutonNoDesc.addEventListener("click", function() {
 });
 
 listenerEnvoyerAvis();
+await afficherGraphiqueAvis();
